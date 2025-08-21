@@ -4,6 +4,7 @@
 
 # 動作画面
 ![検索画面](assets/images/pokemonDatabase.png)
+![検索画面](assets/images/pokemonGallery.png)
 # 使用技術
 - vite
 - axios
